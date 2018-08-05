@@ -5,6 +5,9 @@ Currently supports only latest exchange rates API endpoint.
 
 
 # Usage
+Install by running `pip install pyopenexrates` inside your virtualenv.
+
+Example usage:
 
 ````python
 from pyopenexrates import OpenExchangeRatesApiClient
