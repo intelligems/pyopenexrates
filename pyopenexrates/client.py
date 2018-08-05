@@ -10,7 +10,7 @@ __author__ = 'Konstantinos Livieratos <kostas@intelligems.eu> for Intelligems Te
 __copyright__ = 'Copyright 2018 Intelligems Technologies OU'
 
 API_URL = 'http://openexchangerates.org/api'
-LATEST_DATA_ENDPOINT = API_URL + '/latest.json'
+LATEST_DATA_ENDPOINT = '/latest.json'
 
 
 class OpenExchangeRatesApiClient:

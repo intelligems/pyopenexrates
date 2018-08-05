@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='pyopenexrates',
     description='An openexchangerates.org service API wrapper for Python',
-    version='0.1',
+    version='0.2',
     url='https://github.com/intelligems/pyopenexrates',
     author='K. Livieratos',
     author_email='kostas@intelligems.eu',
