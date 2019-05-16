@@ -1,7 +1,9 @@
 # pyopenexrates
 A simple Python package that wraps https://openexchangerates.org service API.
 
-Currently supports only latest exchange rates API endpoint.
+Currently supports 
+ 1) latest exchange rates API endpoint
+ 2) historical data exchange rates API endpoint
 
 
 # Usage
